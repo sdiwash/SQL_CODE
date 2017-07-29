@@ -1,0 +1,3 @@
+In this lesson you will be learning different SQL commands to query a single table in a database.
+
+One of the core purposes of the SQL language is to retrieve information stored in a database. This is commonly referred to as querying. Queries allow us to communicate with the database by asking questions and having the result set return data relevant to the question. In this lesson, you will be querying a database with one table named movies. Let's get started.
